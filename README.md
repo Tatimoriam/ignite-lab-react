@@ -10,4 +10,4 @@ Projeto feito durante o evento do Ignite Lab da Rocketseat.
 ----
 
 ### Tecnologias usadas
-Vite, tailwind, graphql, apollo, typescript, reactjs e... (será que esqueci alguma coisa?)
+Vite, tailwind, graphql, apollo, typescript, reactjs
